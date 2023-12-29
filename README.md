@@ -2,7 +2,7 @@
 Easily use gpt in your term.
 
 ```py
-import gpt
+import get
 
-gpt() #start
+get.gpt() #start
 ```
